@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &7121092086414773361
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 1.9758
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 1.9758
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 1.9758
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: -3.0679696
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: -1.0101964
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: -0.5412972
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 0.7071067
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: -0.7071068
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: -0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -8679921383154817045, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_Name
+      value: coconut
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 919132149155446097, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      propertyPath: m_TagString
+      value: Fruit
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents:
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 658300950968471292}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 8729569563063465034}
+    - targetCorrespondingSourceObject: {fileID: 919132149155446097, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+      insertIndex: -1
+      addedObject: {fileID: 3405152804512781205}
+  m_SourcePrefab: {fileID: 100100000, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+--- !u!1 &7931501211039314208 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 919132149155446097, guid: 2aa36f484cde6f644af348446d02a3aa, type: 3}
+  m_PrefabInstance: {fileID: 7121092086414773361}
+  m_PrefabAsset: {fileID: 0}
+--- !u!54 &658300950968471292
+Rigidbody:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7931501211039314208}
+  serializedVersion: 4
+  m_Mass: 1
+  m_Drag: 0
+  m_AngularDrag: 0.05
+  m_CenterOfMass: {x: 0, y: 0, z: 0}
+  m_InertiaTensor: {x: 1, y: 1, z: 1}
+  m_InertiaRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ImplicitCom: 1
+  m_ImplicitTensor: 1
+  m_UseGravity: 1
+  m_IsKinematic: 0
+  m_Interpolate: 0
+  m_Constraints: 0
+  m_CollisionDetection: 0
+--- !u!65 &8729569563063465034
+BoxCollider:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7931501211039314208}
+  m_Material: {fileID: 0}
+  m_IncludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_ExcludeLayers:
+    serializedVersion: 2
+    m_Bits: 0
+  m_LayerOverridePriority: 0
+  m_IsTrigger: 0
+  m_ProvidesContacts: 0
+  m_Enabled: 1
+  serializedVersion: 3
+  m_Size: {x: 0.13836354, y: 0.13836354, z: 0.13526383}
+  m_Center: {x: -0.00015199184, y: 0.0006250962, z: 0.0026723293}
+--- !u!114 &3405152804512781205
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7931501211039314208}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137ed027771c72c45b52ba753fab46bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  replacementPrefab: {fileID: 919132149155446097, guid: 5164bd62eaf98924b9b97e94d01f3c48, type: 3}
+  replacementPrefab2: {fileID: 919132149155446097, guid: e9d49d5445d488743a75dd36264b6bc7, type: 3}
+  forceMagnitude: 1
